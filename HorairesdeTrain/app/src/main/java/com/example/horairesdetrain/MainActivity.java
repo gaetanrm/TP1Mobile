@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
     EditText from, to;
 
     ArrayList<Trajet> listTrajet;
-    private Object ArrayList;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
