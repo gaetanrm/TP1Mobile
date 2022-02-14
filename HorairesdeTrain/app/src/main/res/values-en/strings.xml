@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="depart">From :</string>
+    <string name="arrivee">To :</string>
+    <string name="submit">Submit</string>
+    <string name="listRoute">List of Routes</string>
+    <string name="result">Result</string>
+</resources>

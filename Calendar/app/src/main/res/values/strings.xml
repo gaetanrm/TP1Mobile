@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="add">Ajouter</string>
+    <string name="submit">Valider</string>
+    <string name="descr">Description</string>
+    <string name="title">Titre</string>
+</resources>
